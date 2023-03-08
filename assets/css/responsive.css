@@ -1,0 +1,379 @@
+@media screen and (min-width:1400px) {
+    #headerSection .lawliet-logo-bx {
+        background: linear-gradient(269.22deg, #FFFFFF 33.08%, rgb(245, 245, 245) 90.02%);
+        width: 720px;
+        transform: skew(-34deg);
+        transform: skew(-10deg);
+        -webkit-transform: skew(-34deg);
+        -moz-transform: skew(-34deg);
+        -o-transform: skew(-34deg);
+        margin-left: -40px;
+        position: absolute;
+        height: 119px;
+        top: -39px;
+        left: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-right: 1px solid #DBDCE8;
+    }
+
+    #headerSection .header-logo {
+        transform: skew(34deg);
+        margin-left: 160px;
+    }
+
+    #headerSection .header-nav-item {
+        padding: 0 24px;
+    }
+
+
+    #bannerSection .circle-2 {
+        background: rgba(110, 168, 255, 0.1);
+        width: 366px;
+        height: 366px;
+        border-radius: 100%;
+        position: absolute;
+        right: 21%;
+        z-index: 4;
+        top: 0;
+    }
+    #bannerSection .circle-1 {
+        width: 580px;
+        height: 580px;
+        background: rgba(110, 168, 255, 0.1);
+        border-radius: 100%;
+        position: absolute;
+        z-index: 3;
+        right: 16%;
+        top: 0;
+    }
+    #bannerSection .hero-pic {
+        position: relative;
+        width: 88%;
+        margin: auto;
+        z-index: 1108;
+        bottom: 0;
+    }
+
+    #cnctNowSection .cnct-img-box {
+        width: 100%;
+        height: 100%;
+        margin: auto;
+        overflow: hidden;
+    }
+}
+
+
+@media screen and  (min-width:1200px) and (max-width:1299px) {
+    #headerSection .lawliet-logo-bx {
+        background: linear-gradient(269.22deg, #FFFFFF 33.08%, rgb(245, 245, 245) 90.02%);
+        width: 421px;
+        transform: skew(-34deg);
+        transform: skew(-10deg);
+        -webkit-transform: skew(-34deg);
+        -moz-transform: skew(-34deg);
+        -o-transform: skew(-34deg);
+        margin-left: -40px;
+        position: absolute;
+        height: 119px;
+        top: -39px;
+        left: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-right: 1px solid #DBDCE8;
+    }
+}
+    
+
+@media screen and (min-width:993px) and (max-width:1199px) {
+    #headerSection .lawliet-logo-bx {
+        background: linear-gradient(269.22deg, #FFFFFF 33.08%, rgb(245, 245, 245) 90.02%);
+        width: 346px;
+        transform: skew(-34deg);
+        transform: skew(-10deg);
+        -webkit-transform: skew(-34deg);
+        -moz-transform: skew(-34deg);
+        -o-transform: skew(-34deg);
+        margin-left: -40px;
+        position: absolute;
+        height: 119px;
+        top: -39px;
+        left: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-right: 1px solid #DBDCE8;
+    }
+    #headerSection .header-logo {
+        transform: skew(34deg);
+        margin-left: 4rem;
+    }
+}
+@media screen and (max-width:992px) {
+    #headerSection .navbar-bg {
+        background: linear-gradient(269.22deg, #FFFFFF 33.08%, rgb(245, 245, 245) 90.02%);
+        box-shadow: 0px 1px 17px rgb(51 60 127 / 33%);
+        padding: 20px 0;
+    }
+
+    #headerSection .header-nav-item {
+        padding: 11px 13px;
+    }
+    #bannerSection .circle-2 {
+        background: rgba(110, 168, 255, 0.1);
+        width: 318px;
+        height: 318px;
+        border-radius: 100%;
+        position: absolute;
+        right: 173px;
+        z-index: 4;
+        top: 0;
+        display: none;
+    }
+    #bannerSection .circle-1 {
+        width: 487px;
+        height: 487px;
+        background: rgba(110, 168, 255, 0.1);
+        border-radius: 100%;
+        position: absolute;
+        z-index: 3;
+        right: 88px;
+        top: 0;
+        display: none;
+    }
+    #bannerSection .banner-slider-box .banner-title {
+        font-weight: 700;
+        font-size: 64px;
+        color: #094B72;
+        font-family: "Playfair Display", serif;
+    }
+    #bannerSection .company-box .company-boxiul {
+        width: 66%;
+        flex-wrap: wrap;
+        -moz-column-gap: 20px;
+        column-gap: 25px;
+    }
+    #bannerSection .company-box .company-para {
+        font-weight: 400;
+        font-size: 19px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        color: #8B8C8C;
+    }
+    #bannerSection .company-box {
+        margin-top: 2rem;
+    }
+    #legalSection .lagal-card {
+        background: #FCFCFC;
+        box-shadow: 0px 18px 58px 16px rgb(0 0 0 / 6%);
+        border-radius: 8px;
+        border: none;
+        min-height: 263px;
+    }
+    #cnctNowSection .cnct-dec-box .cnct-para {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        color: #4F4F4F;
+    }
+    #cnctNowSection .cnct-dec-box .cnct-title {
+        font-family: "Playfair Display", serif;
+        color: #2D2F30;
+        font-weight: 700;
+        font-size: 35px;
+    }
+    #legalSection .lega-desc-box {
+        margin-top: 0rem;
+    }
+    #cnctNowSection .cnct-img-box {
+        width: 287px;
+        height: 100%;
+        margin: auto;
+        overflow: hidden;
+        display: none;
+    }
+    #cnctNowSection {
+        padding: 19px 0;
+    }
+}
+
+
+@media screen and (max-width:767px) {
+    #countterSection .border-right {
+        border-right: 1px solid rgba(255, 255, 255, 0.7450980392); 
+        /* border-bottom:1px solid rgba(255, 255, 255, 0.7450980392); */
+        margin-top: 2rem;
+    }
+    .margintop-2 {
+        margin-top: 2rem;
+    }
+    #countterSection .countersection-title {
+        font-weight: 900;
+        font-size: 45px;
+        color: #FFFFFF;
+        font-family: "Playfair Display", serif;
+    }
+}
+
+@media screen and (max-width:575px) {
+    #countterSection .border-right {
+        border-right: none;
+        /* border-bottom:1px solid rgba(255, 255, 255, 0.7450980392); */
+        margin-top: 2rem;
+    }
+    #bannerSection .banner-slider-box .banner-title {
+        font-weight: 700;
+        font-size: 40px;
+        color: #094B72;
+        font-family: "Playfair Display", serif;
+    }
+
+    #bannerSection .company-box .company-boxiul {
+        width: 100%;
+        flex-wrap: wrap;
+        -moz-column-gap: 20px;
+        column-gap: 33px;
+        justify-content: center;
+    }
+
+    #bannerSection .company-box .company-para {
+        font-weight: 400;
+        font-size: 15px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        color: #8B8C8C;
+    }
+
+    #bannerSection .banner-slider-box .banner-para {
+        font-weight: 500;
+        font-size: 17px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+    }
+
+    #legalSection .legatl-title {
+        font-weight: 700;
+        font-size: 38px;
+        color: #2D2F30;
+        font-family: "Playfair Display", serif;
+    }
+
+    #legalSection {
+        background: #F2F7FF;
+        padding: 8px 0 48px;
+    }
+
+    #testimonialSection .sec-title {
+        font-weight: 700;
+        font-size: 37px;
+        font-family: "Playfair Display", serif;
+    }
+
+    #cnctNowSection .cnct-dec-box .cnct-title {
+        font-family: "Playfair Display", serif;
+        color: #2D2F30;
+        font-weight: 700;
+        font-size: 35px;
+    }
+
+    #cnctNowSection .cnct-dec-box .cnct-para {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 25px;
+        color: #4F4F4F;
+    }
+
+    #cnctNowSection .cnct-img-box {
+        width: 100%;
+        height: 100%;
+        margin: auto;
+        overflow: hidden;
+    }
+
+    #footerSection .bottom-footer .cpy-right {
+        font-weight: 400;
+        font-size: 14px;
+        font-family: "Inter", sans-serif;
+        color: #D9DBE1;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    #countterSection .countersection-title {
+        font-weight: 900;
+        font-size: 35px;
+        color: #FFFFFF;
+        font-family: "Playfair Display", serif;
+    }
+
+    #countterSection .countersection-para {
+        font-weight: 400;
+        font-size: 15px;
+        color: #FFFFFF;
+        opacity: 0.3;
+    }
+
+    #legalSection .lega-desc-box {
+        margin-top: 3rem;
+    }
+
+    #bannerSection .banner-slider-box .cstm-badge {
+        background: #094B72;
+        border-radius: 26.5px;
+        font-weight: 400;
+        font-size: 14px;
+        padding: 8px 11px;
+        margin: 0 3px;
+    }
+
+    #bannerSection .banner-slider-box .bnr-top-para {
+        background: #E7F6FF;
+        border-radius: 26.5px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 19px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        color: #193E6C;
+        padding: 3px 12px 7px 2px;
+        display: inline-block;
+    }
+
+    #bannerSection .circle-2 {
+        background: rgba(110, 168, 255, 0.1);
+        width: 318px;
+        height: 318px;
+        border-radius: 100%;
+        position: absolute;
+        z-index: 4;
+        top: 0;
+        display: none;
+    }
+
+    #bannerSection .circle-1 {
+        width: 487px;
+        height: 487px;
+        background: rgba(110, 168, 255, 0.1);
+        border-radius: 100%;
+        position: absolute;
+        z-index: 3;
+        right: 88px;
+        top: 0;
+        display: none;
+    }
+
+    #bannerSection .company-box {
+        margin-top: 2rem;
+    }
+
+    #bannerSection .hero-designtaion {
+        font-weight: 500;
+        font-size: 16px;
+        color: #87898C;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        margin-bottom: 0;
+    }
+
+    #countterSection .border-right {
+        border-right: 1px solid rgba(255, 255, 255, 0.7450980392);
+    }
+
+}
